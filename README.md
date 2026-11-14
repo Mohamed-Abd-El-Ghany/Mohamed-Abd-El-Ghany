@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1B2C,50:1B4965,100:2BB6C5&height=210&section=header&text=Mohamed%20Abd%20Elghany&fontSize=46&fontColor=EFF6F9&fontAlignY=36&desc=Flutter%20Developer%20%7C%2025%2B%20live%20apps%20on%20the%20App%20Store%20%26%20Google%20Play&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Mohamed Abd Elghany, Flutter Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1B2C,50:1B4965,100:2BB6C5&height=210&section=header&text=Mohamed%20Abd%20Elghany&fontSize=46&fontColor=EFF6F9&fontAlignY=36&desc=Flutter%20Developer%20%7C%2025%2B%20live%20apps%20on%20the%20App%20Store%20and%20Google%20Play&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Mohamed Abd Elghany, Flutter Developer" />
 
 <a href="https://mohamed-abdelghany-dev.web.app/en">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=2BB6C5&center=true&vCenter=true&width=640&lines=Flutter+apps+for+iOS+and+Android;25%2B+apps+shipped+to+the+stores;Clean+Architecture+%2B+BLoC;AI+features%2C+backends+and+dashboards;From+idea+to+App+Store+and+Google+Play" alt="What I do" />
